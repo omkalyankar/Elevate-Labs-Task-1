@@ -75,11 +75,5 @@ nmap -sS 192.168.1.0/24 -oX nmap_results.xml
 xsltproc nmap_results.xml -o nmap_results.html
 ```
 
----
 
-## ✅ Final Recommendation
 
-- Disable unnecessary services.
-- Close unused ports via firewall/router settings.
-- Keep all systems updated and apply security patches regularly.
-- Use strong passwords and enable authentication where possible.
