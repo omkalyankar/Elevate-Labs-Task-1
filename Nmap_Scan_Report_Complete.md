@@ -1,7 +1,7 @@
 
 # 🔍 Local Network Port Scan Report using Nmap
 
-**Date:** June 23, 2025  
+**Date:** 4 August, 2025  
 **Scanner Tool Used:** Nmap  
 **Scan Command Used:**  
 ```bash
